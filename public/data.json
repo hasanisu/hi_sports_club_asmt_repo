@@ -5,6 +5,7 @@
       "name": "Pacific Prime",
       "seller": "Addidas",
       "price": 420,
+      "time": 120,
       "img": "https://www.healthfitnessrevolution.com/wp-content/uploads/2014/03/badminton-1428047_1920-2.jpg",
       "shipping": 1,
       "quantity": 0
@@ -15,6 +16,7 @@
       "name": "Female Fithers",
       "seller": "Addidas",
       "price": 196,
+      "time": 100,
       "img": "https://racketlovers.com/wp-content/uploads/2018/07/singles-woman-e1531498331475.jpg",
       "shipping": 14,
       "quantity": 0
@@ -25,6 +27,7 @@
       "name": "Doubles Heros",
       "seller": "Addidas",
       "price": 245,
+      "time": 96,
       "img": "https://basicsofbadminton.files.wordpress.com/2013/01/large_badmin16.jpg",
       "shipping": 1,
       "quantity": 0
@@ -35,6 +38,7 @@
       "name": "Smash Ultra",
       "seller": "Addidas",
       "price": 229,
+      "time": 123,
       "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg",
       "shipping": 32,
       "quantity": 0
@@ -45,6 +49,7 @@
       "name": "Kids Fight",
       "seller": "Addidas",
       "price": 287,
+      "time": 82,
       "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg",
       "shipping": 49,
       "quantity": 0
@@ -54,6 +59,8 @@
       "category": "Badminton for Health Benefits",
       "name": "BD Heros",
       "seller": "Addidas",
+      "price": 287,
+      "time": 80,
       "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
       "shipping": 19,
       "quantity": 0
