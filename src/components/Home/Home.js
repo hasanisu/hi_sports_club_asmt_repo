@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import Activity from '../Activity/Activity';
+import BreakTime from '../BreakTime/BreakTime';
 import SingleActivity from '../SingleActivity/SingleActivity';
 
 const Home = () => {
     const [carts, setCart] = useState([]);
     const [activity, setActivity] = useState([]);
+    
 
     useEffect( () =>{
         fetch('data.json')
@@ -19,7 +21,8 @@ const Home = () => {
         setActivity(newActivities);
         
     }
-   
+
+
 
     
 
@@ -49,7 +52,11 @@ const Home = () => {
 
                 
                 <div className='bg-red-200'>
-                    <Activity activity={activity}></Activity>
+
+                    
+                    <Activity activity={activity}
+                    
+                    ></Activity>
                 </div>
             </div>
         </div>
