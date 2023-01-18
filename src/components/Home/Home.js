@@ -6,6 +6,8 @@ import SingleActivity from '../SingleActivity/SingleActivity';
 const Home = () => {
     const [carts, setCart] = useState([]);
     const [activity, setActivity] = useState([]);
+  
+    
     
 
     useEffect( () =>{
