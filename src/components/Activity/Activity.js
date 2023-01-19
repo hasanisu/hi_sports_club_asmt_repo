@@ -30,14 +30,15 @@ let p = 0;
 
 
     return (
-        <div>
-            <div className='sticky top-0'>
+        <div className='sticky top-0'>
+            <div>
                     
 
 
 
                         <p>Selected Item: {activity.length}</p>
                         <h2>Excersize Detail</h2>
+                        <h2 className='mt-36 text-2xl font-bold'>Choose Your Break Time</h2>
                         <div className='flex items-center justify-center space-x-8'>
                         {
                             jikans.map(p=> <BreakTime 

@@ -1,4 +1,5 @@
 import React from 'react';
+import './BreakTime.css'
 
 
 const BreakTime = ({btime, sports, setSports}) => {
@@ -51,8 +52,9 @@ const BreakTime = ({btime, sports, setSports}) => {
 
     return (
         <div>
+            
             <div>
-                <button onClick={() => addToBreakTime(btime)} className='bg-orange-600 p-2 px-3 border rounded-lg font-bold text-white mt-20 text-lg hover:bg-orange-400'>{jikan}</button>
+                <button onClick={() => addToBreakTime(btime)} className='bg-orange-600 p-2 px-3 border rounded-lg font-bold text-white mt-20 text-lg hover:bg-orange-400 btn-break'>{jikan}</button>
             </div>
 
 

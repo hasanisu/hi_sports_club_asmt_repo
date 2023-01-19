@@ -41,7 +41,7 @@ const Home = () => {
 
                 
                 <div className='bg-slate-100 col-span-3'>
-                    <h2 className=''>Badminton Sports Club</h2>
+                    <h2 className='mt-48 text-left ml-12 mb-12 text-2xl font-bold text-red-400'>Badminton Sports Club</h2>
                     
                     <div className='grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-2'>
                     {
@@ -59,7 +59,7 @@ const Home = () => {
                     
 
                 
-                <div className='bg-red-200'>
+                <div className='bg-red-200 sticky top-0'>
 
                     
                     <Activity activity={activity}
