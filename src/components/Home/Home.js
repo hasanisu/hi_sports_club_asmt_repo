@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import Activity from '../Activity/Activity';
 import BreakTime from '../BreakTime/BreakTime';
 import SingleActivity from '../SingleActivity/SingleActivity';
+import Swal from 'sweetalert2';
+
 
 const Home = () => {
     const [carts, setCart] = useState([]);
@@ -21,7 +23,11 @@ const Home = () => {
         console.log(activity);
         const newActivities = [...activity, product];
         setActivity(newActivities);
-        
+        Swal.fire(
+            'Good job!',
+            'You added successfully!',
+            'success'
+          )
     }
 
 

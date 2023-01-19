@@ -64,6 +64,72 @@
       "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
       "shipping": 19,
       "quantity": 0
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category": "Badminton for Health Benefits",
+      "name": "Smash Ultra",
+      "seller": "Addidas",
+      "price": 229,
+      "time": 123,
+      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg",
+      "shipping": 32,
+      "quantity": 0
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category": "Badminton for Health Benefits",
+      "name": "Kids Fight",
+      "seller": "Addidas",
+      "price": 287,
+      "time": 82,
+      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg",
+      "shipping": 49,
+      "quantity": 0
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "category": "Badminton for Health Benefits",
+      "name": "BD Heros",
+      "seller": "Addidas",
+      "price": 287,
+      "time": 80,
+      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
+      "shipping": 19,
+      "quantity": 0
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "category": "Badminton for Health Benefits",
+      "name": "Smash Ultra",
+      "seller": "Addidas",
+      "price": 229,
+      "time": 123,
+      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg",
+      "shipping": 32,
+      "quantity": 0
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "category": "Badminton for Health Benefits",
+      "name": "Kids Fight",
+      "seller": "Addidas",
+      "price": 287,
+      "time": 82,
+      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg",
+      "shipping": 49,
+      "quantity": 0
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "category": "Badminton for Health Benefits",
+      "name": "BD Heros",
+      "seller": "Addidas",
+      "price": 287,
+      "time": 80,
+      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
+      "shipping": 19,
+      "quantity": 0
     }
     
   ]

@@ -58,8 +58,9 @@ let p = 0;
                         </div>
 
 
-                        <div className='flex justify-center items-center ml-16 mt-10 border-2 w-4/5 h-12 bg-slate-200 rounded-lg space-x-36 p-4'>
-                            <p>Break Time:{p}</p>
+                        <div className='flex justify-center items-center ml-16 mt-10 border-2 w-4/5 h-12 bg-slate-200 rounded-lg space-x-40 p-4'>
+                            <p>Break Time</p>
+                            <p>{p} seconds</p>
                            
                         </div>
 

@@ -8,7 +8,7 @@ const SingleActivity = ({product, handleAddToCart}) => {
     return (
         <div >
             <div>
-                <div className='border-2 w-9/12 h-96 m-3 activity bg-sky-200 rounded-lg ml-10'>
+                <div className='border-2 w-9/12 h-96 m-3 activity bg-sky-200 rounded-lg ml-10' data-aos="zoom-in-up">
                     <img className='w-3/4 h-64 ml-10 mt-12 rounded-lg img' src={img} alt=""></img>
                     <h3>Id Name: {id}</h3>
                     <h6>Category : {category}</h6>
