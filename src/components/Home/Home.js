@@ -24,7 +24,7 @@ const Home = () => {
         const newActivities = [...activity, product];
         setActivity(newActivities);
         Swal.fire(
-            'Good job!',
+            'Added!',
             'You added successfully!',
             'success'
           )

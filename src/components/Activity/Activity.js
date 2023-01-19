@@ -36,7 +36,7 @@ const addToToast=()=>{
         <div className='sticky top-0'>
             <div>
                     
-                <div className='flex mb-18'>
+                <div className='flex mb-18 ' data-aos="fade-left">
                     <img className='w-16 broder rounded-full py-2 ml-8 ' src="https://www.shutterstock.com/image-vector/vector-sport-club-sports-ball-600w-619454717.jpg" alt=""></img>
                     <div>
                     <h2 className='ml-4 mt-3 text-xl font-bold'>IMAM MD HASAN</h2>

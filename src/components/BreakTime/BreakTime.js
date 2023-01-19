@@ -53,7 +53,7 @@ const BreakTime = ({btime, sports, setSports}) => {
     return (
         <div>
             
-            <div className='mb-4'>
+            <div className='mb-4' data-aos="zoom-out-left">
                 <button onClick={() => addToBreakTime(btime)} className='bg-orange-600 p-2 px-3 border rounded-lg font-bold text-white mt-20 text-lg hover:bg-orange-400 btn-break'>{jikan}s</button>
             </div>
 
