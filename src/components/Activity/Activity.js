@@ -33,7 +33,7 @@ const addToToast=()=>{
 
 
     return (
-        <div className='sticky top-0'>
+        <div className='sticky top-0 bg-red-200'>
             <div>
                     
                 <div className='flex mb-18 ' data-aos="fade-left">
@@ -45,25 +45,27 @@ const addToToast=()=>{
                 </div>
 
                 <div className='flex justify-center items-center ml-9 mt-10 border-2 w-4/5 h-20 bg-slate-200 rounded-lg space-x-16 p-4'>
+
                     <div>
                         <h2 className='text-xl font-bold'>75<small>kg</small></h2>
                         <p>Weight</p>
                     </div>
+
                     <div>
                         <h2 className='text-xl font-bold'>5.6</h2>
                         <p>Height</p>
                     </div>
+
                     <div>
                         <h2 className='text-xl font-bold'>31<small>yrs</small></h2>
-                        <p>Weight</p>
+                        <p>Age</p>
                     </div>
+
                 </div>
 
-
-                        {/* <p>Selected Item: {activity.length}</p>
-                        <h2>Excersize Detail</h2> */}
                         <h2 className='mt-24 text-xl font-bold text-left ml-10'>Add A Break</h2>
-                        <div className='flex items-center justify-center space-x-8 ml-9 mt-6 mb-20 border-2 w-4/5 h-20 bg-slate-200 rounded-lg p-4'>
+
+                        <div className='flex items-center justify-center space-x-6 ml-9 mt-6 mb-20 border-2 w-4/5 h-20 bg-slate-200 rounded-lg p-4'>
                         {
                             jikans.map(p=> <BreakTime 
                             key={p.id}
@@ -90,11 +92,12 @@ const addToToast=()=>{
                         </div>
 
                         <div className='mt-28'>
-                            <button className='bg-orange-600 hover:bg-orange-400 px-10 py-4 text-2xl text-white font-bold rounded-lg' onClick={addToToast}>Activity Completed</button>
+                            <button className='bg-orange-600 hover:bg-orange-400 px-10 py-4 text-2xl text-white font-bold rounded-lg mb-32' onClick={addToToast}>Activity Completed</button>
                         </div>
+
                         <ToastContainer/>
-                    </div>
-                    </div>
+            </div>
+        </div>
                
       
     );

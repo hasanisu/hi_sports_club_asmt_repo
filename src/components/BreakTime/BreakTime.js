@@ -7,14 +7,6 @@ const BreakTime = ({btime, sports, setSports}) => {
 
 
 
-    // let p = 0;
-    // for(const min of jikans){
-    //     p = min.jikan;
-    // }
-    // console.log(p);
-
-   
-    
     const addToBreakTime =()=>{
         const info={
             jikan,

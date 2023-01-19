@@ -1,135 +1,111 @@
 [
     {
       "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-      "category": "Badminton for Health Benefits",
-      "name": "Pacific Prime",
-      "seller": "Addidas",
-      "price": 420,
+      "description": "you can play with maximum 120 min with natural environment",
+      "name": "BMT-UNLIMITED",
       "time": 120,
-      "img": "https://www.healthfitnessrevolution.com/wp-content/uploads/2014/03/badminton-1428047_1920-2.jpg",
-      "shipping": 1,
-      "quantity": 0
+      "age": "No Age Limit",
+      "img": "https://www.healthfitnessrevolution.com/wp-content/uploads/2014/03/badminton-1428047_1920-2.jpg"
+
     },
     {
       "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
-      "category": "Badminton for Health Benefits",
-      "name": "Female Fithers",
-      "seller": "Addidas",
-      "price": 196,
-      "time": 100,
-      "img": "https://racketlovers.com/wp-content/uploads/2018/07/singles-woman-e1531498331475.jpg",
-      "shipping": 14,
-      "quantity": 0
+      "description": "you can play with single player and it`s effective for your health",
+      "name": "BMT-SINGLE",
+      "time": 45,
+      "age": "20-35",
+      "img": "https://racketlovers.com/wp-content/uploads/2018/07/singles-woman-e1531498331475.jpg"
+      
     },
     {
       "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
-      "category": "Badminton for Health Benefits",
-      "name": "Doubles Heros",
-      "seller": "Addidas",
-      "price": 245,
-      "time": 96,
-      "img": "https://basicsofbadminton.files.wordpress.com/2013/01/large_badmin16.jpg",
-      "shipping": 1,
-      "quantity": 0
+      "description": "if you want to play with national player then you can try this one",
+      "name": "BMT-SUPAR",
+      "time": 60,
+      "age": "18-35",
+      "img": "https://basicsofbadminton.files.wordpress.com/2013/01/large_badmin16.jpg"
+      
     },
     {
       "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-      "category": "Badminton for Health Benefits",
-      "name": "Smash Ultra",
-      "seller": "Addidas",
-      "price": 229,
-      "time": 123,
-      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg",
-      "shipping": 32,
-      "quantity": 0
+      "description": "Ultra supar game and our court is very special with every support",
+      "name": "BMT-SUPAR-ULTRA",
+      "time": 90,
+      "age": "20-30",
+      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg"
+      
     },
     {
       "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-      "category": "Badminton for Health Benefits",
-      "name": "Kids Fight",
-      "seller": "Addidas",
-      "price": 287,
-      "time": 82,
-      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg",
-      "shipping": 49,
-      "quantity": 0
+      "description": "only for kids and hopefully your kids will enjoy this game",
+      "name": "BTM-KIDS",
+      "time": 30,
+      "age": "10-17",
+      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg"
+      
     },
     {
       "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
-      "category": "Badminton for Health Benefits",
-      "name": "BD Heros",
-      "seller": "Addidas",
-      "price": 287,
-      "time": 80,
-      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
-      "shipping": 19,
-      "quantity": 0
+      "description": "This is a game only for Bangladeshi player with uradhura system",
+      "name": "BMT-URADHURA",
+      "time": 240,
+      "age": "No Age Limit",
+      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg"
+      
     },
     {
       "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-      "category": "Badminton for Health Benefits",
+      "description": "Badminton for Health Benefits",
       "name": "Smash Ultra",
-      "seller": "Addidas",
-      "price": 229,
       "time": 123,
-      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg",
-      "shipping": 32,
-      "quantity": 0
+      "age": "20-30",
+      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg"
+      
     },
     {
       "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-      "category": "Badminton for Health Benefits",
+      "description": "Badminton for Health Benefits",
       "name": "Kids Fight",
-      "seller": "Addidas",
-      "price": 287,
       "time": 82,
-      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg",
-      "shipping": 49,
-      "quantity": 0
+      "age": "20-30",
+      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg"
+      
     },
     {
       "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
-      "category": "Badminton for Health Benefits",
+      "description": "Badminton for Health Benefits",
       "name": "BD Heros",
-      "seller": "Addidas",
-      "price": 287,
       "time": 80,
-      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
-      "shipping": 19,
-      "quantity": 0
+      "age": "20-30",
+      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg"
+      
     },
     {
       "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-      "category": "Badminton for Health Benefits",
+      "description": "Badminton for Health Benefits",
       "name": "Smash Ultra",
-      "seller": "Addidas",
-      "price": 229,
       "time": 123,
-      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg",
-      "shipping": 32,
-      "quantity": 0
+      "age": "20-30",
+      "img": "http://www.badmintonpanam.org/wp-content/uploads/2020/04/20190521_1438_SudirmanCup2019_BPMP0514.jpg"
+     
     },
     {
       "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-      "category": "Badminton for Health Benefits",
+      "description": "Badminton for Health Benefits",
       "name": "Kids Fight",
-      "seller": "Addidas",
-      "price": 287,
       "time": 82,
-      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg",
-      "shipping": 49,
-      "quantity": 0
+      "age": "20-30",
+      "img": "https://thebridge.in/wp-content/uploads/2019/05/g-51071-red-badminton-net-outdoor.jpg"
+     
     },
     {
       "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
-      "category": "Badminton for Health Benefits",
+      "description": "Badminton for Health Benefits",
       "name": "BD Heros",
-      "seller": "Addidas",
-      "price": 287,
       "time": 80,
-      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg",
-      "shipping": 19,
-      "quantity": 0
+      "age": "20-30",
+      "img": "https://www.theindependentbd.com/assets/news_images/winter.jpg"
+      
     }
     
   ]
