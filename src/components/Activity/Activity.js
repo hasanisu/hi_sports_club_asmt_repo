@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import BreakTime from '../BreakTime/BreakTime';
+import { ToastContainer, toast } from 'react-toastify';
 
     const Activity = (props) => {
 
@@ -21,11 +22,13 @@ import BreakTime from '../BreakTime/BreakTime';
 let p = 0;
     for(const min of sports){
         p = min.jikan;
-    }
-    console.log(p);
+    };
 
     
+const addToToast=()=>{
+    toast("Wow you have completed your activity!");
 
+}
 
 
 
@@ -86,7 +89,10 @@ let p = 0;
                            
                         </div>
 
-
+                        <div className='mt-28'>
+                            <button className='bg-orange-600 hover:bg-orange-400 px-10 py-4 text-2xl text-white font-bold rounded-lg' onClick={addToToast}>Activity Completed</button>
+                        </div>
+                        <ToastContainer/>
                     </div>
                     </div>
                
